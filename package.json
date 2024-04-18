@@ -1,0 +1,21 @@
+{
+  "name": "atm92110",
+  "version": "3.2.3",
+  "description": "This repository contains a simple ATM (Automated Teller Machine).",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "salman baqar",
+  "license": "ISC",
+  "dependencies": {
+    "atm92110": "^3.2.3",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
